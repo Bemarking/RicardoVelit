@@ -1,16 +1,144 @@
-## Hi there 👋
+# 👋 Hi, I'm Bemarking AI
 
-<!--
-**Bemarking/Bemarking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Systems Architect · Software Developer · Founder
 
-Here are some ideas to get you started:
+I design and build **AI-powered software systems** that help companies automate processes, discover opportunities and scale faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is not just code — it's **building intelligent digital infrastructure for modern companies**.
+
+---
+
+## 🚀 What I Do
+
+🔹 **AI Agents & Automation Systems**  
+Design of autonomous AI systems capable of analyzing data, researching markets, qualifying prospects and generating strategic insights.
+
+🔹 **Custom Software Development**  
+Web platforms, SaaS systems and internal tools designed for scalability.
+
+🔹 **AI for Business Growth**  
+Implementation of AI solutions for sales, marketing intelligence and operational optimization.
+
+---
+
+## 🧠 Current Project
+
+### AXON AI
+
+An intelligent AI platform designed to help companies:
+
+• Discover market opportunities  
+• Detect purchase intent  
+• Automate research and prospect analysis  
+• Generate strategic insights in real time  
+
+Built as a **microservice-based AI system**.
+
+---
+
+## ⚙️ Core Technologies
+
+**Languages**
+
+- Python
+- JavaScript
+- TypeScript
+
+**Backend**
+
+- FastAPI
+- Node.js
+- Microservices architecture
+
+**AI / Data**
+
+- LLM integrations
+- AI Agents
+- Data extraction & web intelligence
+- NLP systems
+
+**Infrastructure**
+
+- Docker
+- Linux
+- Git
+- Cloud deployments
+
+---
+
+##  Architecture Mindset
+
+I specialize in building systems that are:
+
+- Modular
+- Scalable
+- AI-integrated
+- Automation-ready
+
+Most of my projects follow an **agent-driven microservices architecture**.
+
+---
+
+##  Featured Work
+
+### 🔹 AXON AI
+AI system for business intelligence and opportunity detection.
+
+### 🔹 KIVI
+AI-driven platform for **sales intelligence and adaptive prospect qualification**.
+
+Features include:
+
+- purchase-intent detection
+- deep diagnosis
+- market research
+- adaptive survey systems
+- AI pre-close analysis
+
+---
+
+##  Philosophy
+
+> Software should not just execute instructions.  
+> It should **generate intelligence**.
+
+I build systems where **AI becomes part of the business decision process**.
+
+---
+
+##  Based in
+
+Colombia 🇨🇴  
+Working globally.
+
+---
+
+##  Let's Collaborate
+
+If you're building something interesting or want to integrate **AI into your business**, let's talk.
+
+ **Contact**  
+LinkedIn: *(add your link)*  
+Email: *(add your email)*
+
+---
+
+##  Fun Fact
+
+Most developers write code.
+
+I design **systems that think.**
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemarking&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemarking&layout=compact&theme=dark)
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,100:111111&height=200&section=header&text=AI%20Systems%20Engineer&fontSize=40&fontColor=ffffff"/>
