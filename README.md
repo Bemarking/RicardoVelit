@@ -130,9 +130,7 @@ Most developers write code.
 I design **systems that think.**
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:22c55e&height=200&section=header&text=AI%20Systems%20Architect&fontSize=40&fontColor=ffffff"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemarking&layout=compact&theme=dark)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:22c55e&height=200&section=header&text=Ricardo%20Velit&fontSize=42&fontColor=ffffff&desc=AI%20Systems%20Architect%20•%20Founder%20of%20Kivi&descSize=18&descAlignY=65"/>
 
 ## 🧰 Tech Stack
 
