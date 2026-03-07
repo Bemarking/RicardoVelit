@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bemarking AI
+#  Hi, I'm Bemarking AI
 
 ### AI Systems Architect · Software Developer · Founder
 
@@ -8,7 +8,7 @@ My focus is not just code — it's **building intelligent digital infrastructure
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 🔹 **AI Agents & Automation Systems**  
 Design of autonomous AI systems capable of analyzing data, researching markets, qualifying prospects and generating strategic insights.
@@ -21,7 +21,7 @@ Implementation of AI solutions for sales, marketing intelligence and operational
 
 ---
 
-## 🧠 Current Project
+##  Current Project
 
 ### AXON AI
 
@@ -36,7 +36,7 @@ Built as a **microservice-based AI system**.
 
 ---
 
-## ⚙️ Core Technologies
+##  Core Technologies
 
 **Languages**
 
