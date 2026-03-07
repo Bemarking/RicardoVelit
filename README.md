@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:22c55e&height=220&section=header&text=Ricardo%20Velit&fontSize=45&fontColor=ffffff&desc=AI%20Systems%20Architect%20•%20Founder%20of%20Kivi&descSize=20&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:22c55e&height=220&section=header&text=Bemarking%20AI&fontSize=45&fontColor=ffffff&desc=AI%20Systems%20Architect%20•%20Founder%20of%20Kivi&descSize=20&descAlignY=65"/>
 
 <div align="center">
 
-# 👋 Hey, I'm Ricardo
+#  Hi Are BEmarking AI
 
 ### AI Systems Architect · Software Developer · AI Founder
 
@@ -12,7 +12,7 @@ Building **intelligent software systems** that help companies discover opportuni
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 🔹 Building **AI-driven business systems**  
 🔹 Designing **agent-based architectures**  
@@ -20,7 +20,7 @@ Building **intelligent software systems** that help companies discover opportuni
 
 ---
 
-# 🧠 Main Project
+#  Main Project
 
 ## KIVI — AI Sales Intelligence System
 
@@ -39,16 +39,56 @@ Capabilities:
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Nuestro Stack Técnico
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Systems-111111?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-444444?style=for-the-badge)
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/><br>
+<b>C++</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/><br>
+<b>Angular</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55"/><br>
+<b>Vue.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://astro.build/assets/press/astro-icon-light.svg" width="55"/><br>
+<b>Astro</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+No tenemos tecnología favorita.  
+Cada lenguaje entra cuando el problema lo exige.  
+
+**La herramienta sirve al negocio, nunca al revés.**
 
 </div>
 
@@ -64,15 +104,7 @@ Most of my systems follow:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemarking&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemarking&layout=compact&theme=dark)
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bemarking&theme=github-dark"/>
 
 ---
 
