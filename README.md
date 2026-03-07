@@ -60,3 +60,37 @@ Most of my systems follow:
 
 **AI Agent Architecture**
 
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bemarking&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bemarking&layout=compact&theme=dark)
+
+</div>
+
+---
+
+# 🌎 Location
+
+Colombia 🇨🇴  
+Working with companies worldwide.
+
+---
+
+# 🤝 Let's Connect
+
+If you want to integrate **AI into your business operations**, let's talk.
+
+📩 Email  hola@bemarking.com.co
+🔗 LinkedIn  https://www.linkedin.com/in/ricardovelit/
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:1f1f1f&height=120&section=footer"/>
+
