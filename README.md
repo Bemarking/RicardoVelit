@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  Hi Are BEmarking AI
+#  Hi Are RiardoVelit
 
 ### AI Systems Architect · Software Developer · AI Founder
 
